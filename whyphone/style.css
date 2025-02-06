@@ -1,0 +1,24 @@
+.img-logo{
+    display:block;
+    width:200px;
+}
+
+#imagem{
+    width:100%;
+}
+
+.texto-menor{
+    font-size:13px;
+}
+.divs-facilidades{
+    width:325px;
+}
+.card{
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.226);
+    cursor: pointer;
+    transition:all 0.5s;
+}
+
+.produto:hover{
+    transform:scale(1.08);
+}
